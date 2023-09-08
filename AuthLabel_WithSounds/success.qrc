@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>free-sound-1674784791.mp3</file>
+        <file>free-sound-1674743940.mp3</file>
+        <file>free-sound-1674707458.mp3</file>
+    </qresource>
+</RCC>
